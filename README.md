@@ -9,3 +9,5 @@ Write Python ( or any other language ) program to simulate this behavior .
 7. Keep Count value in list
 8. Repeat 1 to 6 steps 10000 times
 9. Find the average of Count
+
+Repeat the task for rolling a die
